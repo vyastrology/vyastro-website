@@ -3,7 +3,7 @@
   "buildCommand": "next build",
   "outputDirectory": ".next",
   "installCommand": "npm install",
-  "regions": ["bom1", "sin1"],
+  "regions": ["bom1"],
   "headers": [
     {
       "source": "/(.*)",
